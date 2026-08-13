@@ -1,238 +1,108 @@
-# `Ng Hoth`
-
 <p align="center">
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║                         Ng Hoth                               ║
-║                                                              ║
-║              Build • Break • Learn • Repeat                  ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:071A14,100:00FF9C&height=200&section=header&text=Ng%20Hoth&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <b>⚡ Web3 · AI · Automation · Security ⚡</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Web3+%7C+AI+%7C+Automation+%7C+Security;Building+tools+that+solve+real+problems;Always+learning.+Always+building." />
 </p>
 
 ---
 
-### `// SYSTEM STATUS`
+## 🧑‍💻 About Me
 
-```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│  USER        : Ng Hoth                              │
-│  STATUS      : ONLINE                               │
-│  MODE        : BUILDING                             │
-│  LOCATION    : 🌏 Earth                             │
-│  MINDSET     : CURIOUS                              │
-│                                                     │
-│  [████████████████████████████████████] 100%        │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
+* 🌐 Exploring **Web3 & Blockchain**
+* 🤖 Building **Automation Tools**
+* 🧠 Exploring **AI & intelligent systems**
+* 🔐 Learning **Smart Contract Security**
+* ⚡ Interested in **Web3 infrastructure**
+* 🚀 Always learning, experimenting and building
 
 ---
 
-## `// About`
-
-> I build, experiment and break things to understand how they work.
-
-```text
-      curiosity
-          │
-          ▼
-       ┌───────┐
-       │ EXPLORE│
-       └───┬───┘
-           │
-           ▼
-       ┌───────┐
-       │ BUILD │
-       └───┬───┘
-           │
-           ▼
-       ┌───────┐
-       │ BREAK │
-       └───┬───┘
-           │
-           ▼
-       ┌───────┐
-       │ LEARN │
-       └───┬───┘
-           │
-           └──────────────► REPEAT
-```
-
----
-
-## `// Current Focus`
-
-```yaml
-developer:
-  name: "Ng Hoth"
-  status: "online"
-
-focus:
-  - Web3
-  - Artificial Intelligence
-  - Automation
-  - Cybersecurity
-  - Open Source
-
-learning:
-  - Smart Contracts
-  - Blockchain Infrastructure
-  - AI Tools
-  - System Security
-
-mindset:
-  - Think
-  - Build
-  - Test
-  - Improve
-```
-
----
-
-## `// Tech Stack`
+## 🧰 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,solidity,nodejs,react,nextjs,docker,linux,git,github,vscode,mongodb,postgresql" />
-
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,solidity,nodejs,react,nextjs,docker,linux,git,github,vscode" />
 </p>
 
 ---
 
-## `// Web3`
+## 🔗 Web3 Interests
 
-```text
-                    ┌──────────────┐
-                    │   Blockchain │
-                    └───────┬──────┘
-                            │
-           ┌────────────────┼────────────────┐
-           │                │                │
-           ▼                ▼                ▼
-     Smart Contracts      Tokens           dApps
-           │                │                │
-           └────────────────┼────────────────┘
-                            │
-                            ▼
-                       Automation
-```
-
-### Exploring
-
-`⛓️ Smart Contracts` · `🪙 Tokens` · `🔐 Security` · `🤖 Automation`
+* ⛓️ Smart Contracts
+* 🪙 Tokens
+* 🌐 Blockchain Infrastructure
+* 🤖 Web3 Automation
+* 🔐 Smart Contract Security
+* 🔌 Web3 APIs
 
 ---
 
-## `// Projects`
-
-```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│  [01] Automation                                    │
-│       Tools that eliminate repetitive work.         │
-│                                                     │
-│  [02] Web3                                          │
-│       Experiments with blockchain technology.      │
-│                                                     │
-│  [03] AI                                            │
-│       Practical AI-powered tools.                  │
-│                                                     │
-│  [04] Security                                      │
-│       Learning how systems work under the hood.    │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
-
-> `Projects are loading...`
-
----
-
-## `// GitHub`
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NgHoth&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgHoth&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=FFFFFF" />
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NgHoth&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgHoth&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=FFFFFF" />
 </p>
 
 ---
 
-## `// Contributions`
+## 🔥 Contribution Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=NgHoth&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
-
+  <img src="https://streak-stats.demolab.com?user=NgHoth&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
 </p>
 
 ---
 
-## `// 2026`
+## 📚 Currently Learning
 
 ```text
-╭────────────────────────────────────────────────────╮
-│                                                    │
-│  [✓] Build more                                    │
-│  [✓] Learn Web3                                    │
-│  [✓] Explore AI                                    │
-│  [ ] Ship open-source projects                     │
-│  [ ] Build something people actually use           │
-│                                                    │
-╰────────────────────────────────────────────────────╯
+Web3                 ████████████████████
+Smart Contracts      ██████████████████░░
+AI & Automation      ████████████████░░░░
+Cybersecurity        ██████████████░░░░░░
+Open Source          ████████████░░░░░░░░
 ```
+
+* Solidity Development
+* Web3 Automation
+* Smart Contract Security
+* Blockchain Infrastructure
+* AI-powered Tools
 
 ---
 
-## `// Philosophy`
-
-```text
-"Don't just use technology.
-
-Understand it.
-
-Then build something better."
-```
-
----
-
-## `// Connect`
+## 🐍 Contribution Snake
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/NgHoth/NgHoth/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
-<a href="https://github.com/NgHoth">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C" />
-</a>
+---
 
+## 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/NgHoth">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NgHoth&style=for-the-badge&color=00FF9C&label=PROFILE+VIEWS" />
+</p>
 
-```text
-──────────────────────────────────────────────────────
+<p align="center">
+  <b>⚡ Exploring the future. Building the present. ⚡</b>
+</p>
 
-                    Ng Hoth
+<p align="center">
+  <i>— Ng Hoth</i>
+</p>
 
-             Build. Break. Learn.
-
-──────────────────────────────────────────────────────
-```
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,50:071A14,100:0D1117&height=120&section=footer" />
 </p>
