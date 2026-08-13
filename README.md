@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=55&duration=3000&pause=1200&color=39FF14&center=true&vCenter=true&width=1000&lines=Ng+Hoth;Web3+Builder;Automation+Engineer;Blockchain+Explorer;Always+Learning+🚀" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NgHoth&label=Profile%20Views&color=39FF14&style=flat" />
+</p>
+
 ---
 
 ## 🧑‍💻 About Me
@@ -16,9 +20,7 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,javascript,nodejs,solidity,git,github,docker,linux,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,solidity,git,github,docker,linux,vscode" />
 </p>
 
 ---
@@ -37,9 +39,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sometimes612&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NgHoth&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sometimes612&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=NgHoth&theme=tokyonight"/>
 
 </p>
 
@@ -58,16 +60,16 @@
 
 <p align="center">
 
-<a href="https://github.com/sometimes612">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/NgHoth">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://x.com/sometimes_612">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<a href="https://x.com/0xNgHoth">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 <a href="https://t.me/MaapJ">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
 </p>
@@ -77,11 +79,13 @@
 ## 👀 Visitor Counter
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sometimes612&label=Profile%20views&color=39FF14&style=flat"/>
+
+<img src="https://komarev.com/ghpvc/?username=NgHoth&label=Profile%20Views&color=39FF14&style=flat"/>
+
 </p>
 
 ---
 
 <p align="center">
-  ⚡ Exploring the future of Web3 ⚡
+  <strong>⚡ Exploring the future of Web3 ⚡</strong>
 </p>
