@@ -1,19 +1,27 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:071A14,100:00FF9C&height=200&section=header&text=Ng%20Hoth&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:071A14,100:00FF9C&height=180&section=header&text=Ng%20Hoth&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=38" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Web3+%7C+AI+%7C+Automation+%7C+Security;Building+tools+that+solve+real+problems;Always+learning.+Always+building." />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2500&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&height=50&lines=Ng+Hoth;Web3+%7C+AI+%7C+Automation;Building+%7C+Learning+%7C+Exploring;Always+learning.+Always+building." alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <b>🌐 Web3 · 🤖 AI · ⚙️ Automation · 🔐 Security</b>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👋 About Me
+
+I'm **Ng Hoth**, a technology enthusiast interested in building useful things and understanding how they work.
 
 * 🌐 Exploring **Web3 & Blockchain**
-* 🤖 Building **Automation Tools**
+* 🤖 Building **automation tools**
 * 🧠 Exploring **AI & intelligent systems**
-* 🔐 Learning **Smart Contract Security**
+* 🔐 Learning **security & smart contracts**
 * ⚡ Interested in **Web3 infrastructure**
 * 🚀 Always learning, experimenting and building
 
@@ -27,11 +35,11 @@
 
 ---
 
-## 🔗 Web3 Interests
+## 🌐 Web3 Interests
 
 * ⛓️ Smart Contracts
 * 🪙 Tokens
-* 🌐 Blockchain Infrastructure
+* 🌍 Blockchain Infrastructure
 * 🤖 Web3 Automation
 * 🔐 Smart Contract Security
 * 🔌 Web3 APIs
@@ -81,7 +89,7 @@ Open Source          ████████████░░░░░░░�
 
 ---
 
-## 🌍 Connect With Me
+## 🔗 Connect With Me
 
 <p align="center">
   <a href="https://github.com/NgHoth">
@@ -92,17 +100,9 @@ Open Source          ████████████░░░░░░░�
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NgHoth&style=for-the-badge&color=00FF9C&label=PROFILE+VIEWS" />
-</p>
-
-<p align="center">
-  <b>⚡ Exploring the future. Building the present. ⚡</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,50:071A14,100:0D1117&height=100&section=footer" />
 </p>
 
 <p align="center">
   <i>— Ng Hoth</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,50:071A14,100:0D1117&height=120&section=footer" />
 </p>
