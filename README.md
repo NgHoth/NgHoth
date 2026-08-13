@@ -1,108 +1,79 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:071A14,100:00FF9C&height=180&section=header&text=Ng%20Hoth&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=38" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2500&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&height=50&lines=Ng+Hoth;Web3+%7C+AI+%7C+Automation;Building+%7C+Learning+%7C+Exploring;Always+learning.+Always+building." alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <b>🌐 Web3 · 🤖 AI · ⚙️ Automation · 🔐 Security</b>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=3000&pause=1200&color=39FF14&center=true&vCenter=true&width=1000&lines=Ng+Hoth;Web3+Builder;Automation+Engineer;Blockchain+Explorer;Always+Learning+🚀" />
 </p>
 
 ---
 
-## 👋 About Me
-
-I'm **Ng Hoth**, a technology enthusiast interested in building useful things and understanding how they work.
+## 🧑‍💻 About Me
 
 * 🌐 Exploring **Web3 & Blockchain**
-* 🤖 Building **automation tools**
-* 🧠 Exploring **AI & intelligent systems**
-* 🔐 Learning **security & smart contracts**
-* ⚡ Interested in **Web3 infrastructure**
-* 🚀 Always learning, experimenting and building
+* 🤖 Building **Automation Tools**
+* 🔐 Learning **Smart Contract Security**
+* 🚀 Passionate about **decentralized technology**
 
 ---
 
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,solidity,nodejs,react,nextjs,docker,linux,git,github,vscode" />
+
+<img src="https://skillicons.dev/icons?i=python,javascript,nodejs,solidity,git,github,docker,linux,vscode" />
+
 </p>
 
 ---
 
-## 🌐 Web3 Interests
+## 🔗 Web3 Interests
 
-* ⛓️ Smart Contracts
-* 🪙 Tokens
-* 🌍 Blockchain Infrastructure
-* 🤖 Web3 Automation
-* 🔐 Smart Contract Security
-* 🔌 Web3 APIs
+* Smart Contracts
+* DeFi Infrastructure
+* Blockchain Tools
+* Automation Bots
+* Web3 APIs
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NgHoth&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgHoth&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=FFFFFF" />
-</p>
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NgHoth&show_icons=true&theme=tokyonight"/>
 
-## 🔥 Contribution Streak
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=NgHoth&theme=tokyonight"/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=NgHoth&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
 </p>
 
 ---
 
 ## 📚 Currently Learning
 
-```text
-Web3                 ████████████████████
-Smart Contracts      ██████████████████░░
-AI & Automation      ████████████████░░░░
-Cybersecurity        ██████████████░░░░░░
-Open Source          ████████████░░░░░░░░
-```
-
 * Solidity Development
 * Web3 Automation
 * Smart Contract Security
 * Blockchain Infrastructure
-* AI-powered Tools
 
 ---
 
-## 🐍 Contribution Snake
+## 🌍 Connect With Me
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NgHoth/NgHoth/output/github-contribution-grid-snake-dark.svg" />
+
+<a href="https://github.com/NgHoth">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## 🔗 Connect With Me
+## 👀 Visitor Counter
 
 <p align="center">
-  <a href="https://github.com/NgHoth">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C" />
-  </a>
+<img src="https://komarev.com/ghpvc/?username=NgHoth&label=Profile%20views&color=39FF14&style=flat"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,50:071A14,100:0D1117&height=100&section=footer" />
-</p>
-
-<p align="center">
-  <i>— Ng Hoth</i>
+⚡ Exploring the future of Web3 ⚡
 </p>
