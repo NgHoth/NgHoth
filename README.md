@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=3000&pause=1200&color=39FF14&center=true&vCenter=true&width=1000&lines=Ng+Hoth;Web3+Builder;Automation+Engineer;Blockchain+Explorer;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=55&duration=3000&pause=1200&color=39FF14&center=true&vCenter=true&width=1000&lines=Ng+Hoth;Web3+Builder;Automation+Engineer;Blockchain+Explorer;Always+Learning+🚀" />
 </p>
 
 ---
@@ -25,11 +25,11 @@
 
 ## 🔗 Web3 Interests
 
-- Smart Contracts
-- DeFi Infrastructure
-- Blockchain Tools
-- Automation Bots
-- Web3 APIs
+- ⛓️ Smart Contracts
+- 💰 DeFi Infrastructure
+- 🧩 Blockchain Tools
+- 🤖 Automation Bots
+- 🔌 Web3 APIs
 
 ---
 
@@ -83,5 +83,5 @@
 ---
 
 <p align="center">
-⚡ Exploring the future of Web3 ⚡
+  ⚡ Exploring the future of Web3 ⚡
 </p>
